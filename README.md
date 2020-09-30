@@ -9,10 +9,10 @@ This repository host all the necessary documents, code and data to explain and b
 Lara device is positioned on the back of the head, with the following IMU settings  
 
 ### Detectable Acceleration
-![Detectable Acceleration](./medias/images/acceleration.png)  
+![Detectable Acceleration](https://github.com/pandaGaume/Swim/blob/master/Medias/Images/acceleration.png)  
 
 ### Angular rate
-![Angular rate](./medias/images/angularrate.png)
+![Angular rate](https://github.com/pandaGaume/Swim/blob/master/Medias/Images/angularrate.png)
 
 ## Metrics
 Lara has the following main Functional features  
