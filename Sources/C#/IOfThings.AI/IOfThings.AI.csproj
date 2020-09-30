@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <LangVersion>7.1</LangVersion>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="onnx\**" />
+    <EmbeddedResource Remove="onnx\**" />
+    <None Remove="onnx\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Protobuf" Version="3.10.0" />
+    <PackageReference Include="Microsoft.ML" Version="1.3.1" />
+    <PackageReference Include="Microsoft.ML.OnnxConverter" Version="0.15.1" />
+    <PackageReference Include="Microsoft.ML.OnnxRuntime" Version="0.5.0" />
+    <PackageReference Include="Microsoft.ML.OnnxTransformer" Version="1.3.1" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,6 @@
+C:\Users\guill\Documents\Projects\BlueForest\netcore\IOfThings.AI\bin\Debug\netcoreapp2.1\IOfThings.AI.deps.json
+C:\Users\guill\Documents\Projects\BlueForest\netcore\IOfThings.AI\bin\Debug\netcoreapp2.1\IOfThings.AI.dll
+C:\Users\guill\Documents\Projects\BlueForest\netcore\IOfThings.AI\obj\Debug\netcoreapp2.1\IOfThings.AI.csprojAssemblyReference.cache
+C:\Users\guill\Documents\Projects\BlueForest\netcore\IOfThings.AI\obj\Debug\netcoreapp2.1\IOfThings.AI.csproj.CoreCompileInputs.cache
+C:\Users\guill\Documents\Projects\BlueForest\netcore\IOfThings.AI\obj\Debug\netcoreapp2.1\IOfThings.AI.AssemblyInfoInputs.cache
+C:\Users\guill\Documents\Projects\BlueForest\netcore\IOfThings.AI\obj\Debug\netcoreapp2.1\IOfThings.AI.AssemblyInfo.cs
