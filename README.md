@@ -4,7 +4,7 @@ Lara device, is a swim activity tracker dedicated to measure swim performance in
   
 This repository host all the necessary documents, code and data to explain and build the dataflow, from sensor to AI.  
   
-![Data flow](./medias/images/swimminganalysis.png)  
+![Data flow](medias/images/swimminganalysis.png)  
 
 Lara device is positioned on the back of the head, with the following IMU settings  
 
